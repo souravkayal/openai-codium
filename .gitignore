@@ -1,0 +1,31 @@
+# Build and object files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Test results
+TestResults/
+*.trx
+
+# IDE settings
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Package files
+*.nupkg
+*.snupkg
+
+# Runtime config
+*.runtimeconfig.json
+
+# Database files
+*.db
+todo.db
+
+# OS files
+.DS_Store
+Thumbs.db
